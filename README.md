@@ -13,13 +13,13 @@ FreeDownload Music - Support four platforms
 
 使用方法：
 
-git clone https://github.com/AYueMortal/ParseMusic
+    git clone https://github.com/AYueMortal/ParseMusic
 
-cd ParseMusic
+    cd ParseMusic
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
-python parsemusic.py
+    python parsemusic.py
 
 
 最后望各位喜欢本项目！点Star与Fork支持下！
