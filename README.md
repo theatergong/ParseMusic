@@ -13,7 +13,7 @@ FreeDownload Music - Support four platforms
 
 使用方法：
 
-    git clone https://github.com/AYueMortal/ParseMusic
+    git clone https://github.com/theatergong/ParseMusic
 
     cd ParseMusic
 
